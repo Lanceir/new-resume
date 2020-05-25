@@ -43,7 +43,9 @@ body {
 }
 
 .person .items:nth-child(2) img{
-  width: 343px;
+  position:relative;
+  right:50px;
+  height: 230px;
 }
 
 h1 {
