@@ -3,13 +3,14 @@ title: 简历 - 闻韬
 aboutme:
   name: 闻韬 / Tao Wen
   sex: 男
-  age: 25
-  email: i@lanceir.com
+  birth: 1996.08
+  city: 浙江嘉兴
+  policy: 共青团员
+  university: 中国科学院大学 / Technical University of Danmark
   phone: 17865197931
-  github: https://github.com/lanceir
-  city: 北京
-  university: 中国科学院大学 / Technical University of Danmark 
-  edu: 硕士
-  research: CFD，IBM，煤燃烧
+  email: i@lanceir.com
+  address: 北京市海淀区中关村北二街1号过程工程研究所，100190
+
+  
 
 update: 2020年05月25日
