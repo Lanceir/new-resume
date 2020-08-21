@@ -13,8 +13,8 @@ date: 2020-08-21 7
 
 >熟练运用 Ofiice 办公软件；
 
->掌握 Fluent、EDEM、Matlab 等计算模拟软件，对 UDF、UDS 编写与调试有自己的理解与认知；
+>掌握 `Fluent`、`EDEM`、`Matlab` 等计算模拟软件，对 UDF、UDS 编写与调试有自己的理解与认知；
 
->熟练使用 ICEM、Fluent Meshing、Maple、OriginLab 等前后处理软件；
+>熟练使用 `ICEM`、`Fluent Meshing`、`Maple`、`OriginLab` 等前后处理软件；
 
 >了解 Git 版本管理系统。
